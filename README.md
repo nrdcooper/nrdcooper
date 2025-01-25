@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+> My name is Nia-Renee Cooper. I am a fourth year PhD student in the field of Human Systems Engineering at Arizona State University. My research is focused on games and learning, specifically looking at the design of games to enhance the overall learning experience. While I do have some experience with coding, I still often find it challenging. However, ,y favorite part of it is seeing the code come to life as I imagined it. One of my main hobbies in my free time is drawing and painting. I have always considered myself a creative and I find art to be a fun and relaxing outlet. 
 <!--
 **nrdcooper/nrdcooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
